@@ -304,20 +304,10 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -329,14 +319,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
 
-For questions or issues:
-- Open an [Issue](https://github.com/yourusername/ai-echo-sentiment-analysis/issues)
-- Email: support@aiecho.com
-- Documentation: See [app/README.md](app/README.md) for detailed dashboard guide
 
----
 
-**Made with ❤️ for the AI community**
+
 
