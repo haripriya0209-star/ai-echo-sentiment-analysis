@@ -74,9 +74,9 @@ ai-echo-sentiment-analysis/
 │   └── README.md                     # Detailed dashboard documentation
 │
 ├── data/                             # Datasets
-│   ├── cleaned_reviews_dataset_old_analysis.csv       # Original dataset (15 unique reviews)
-│   ├── cleaned_chatgpt_reviews_updated.csv           # Updated with encoded labels
-│   └── chatgpt_style_reviews_dataset.xlsx            # Raw Excel data
+│   ├── cleaned_reviews_dataset_old_analysis.csv       # Final cleaned dataset (15 unique reviews)
+│   ├── cleaned_chatgpt_reviews_updated.csv            # Updated with encoded labels
+│   └── chatgpt_style_reviews_dataset.xlsx -updated    # Raw Excel data
 │
 ├── models/                           # Trained Models (Not included in repo)
 │   ├── logistic_regression_model.pkl      # Production model
@@ -96,7 +96,7 @@ ai-echo-sentiment-analysis/
 ├── .gitignore                        # Git ignore rules
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # This file
-└── LICENSE                           # MIT License
+
 
 ```
 
@@ -339,3 +339,4 @@ For questions or issues:
 ---
 
 **Made with ❤️ for the AI community**
+
