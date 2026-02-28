@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-FF4B4B.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![Status](https://img.shields.io/badge/Status-Educational%20Demo-orange)
+
 
 > **⚠️ IMPORTANT NOTICE**: This dataset contains only **15 unique reviews** out of 500 total entries (97% duplicates). This project is intended for **educational and demonstration purposes only**. For production use, a dataset with at least 1000+ unique reviews is recommended.
 
@@ -318,6 +317,7 @@ Contributions are welcome! Please follow these steps:
 - **Keras Tuner**: Hyperparameter optimization
 
 ---
+
 
 
 
