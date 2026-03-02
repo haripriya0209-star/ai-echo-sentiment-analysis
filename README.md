@@ -285,28 +285,11 @@ joblib.dump(vectorizer, 'models/tfidf_vectorizer.pkl')
 
 ### Priority 4: Deployment
 - [ ] Dockerize application
-- [ ] Deploy to Streamlit Cloud / Heroku
+- [ ] Deploy to Streamlit Cloud 
 - [ ] Create REST API with FastAPI
 - [ ] Add authentication for multi-user access
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/YourFeature`)
-3. Commit changes (`git commit -m 'Add YourFeature'`)
-4. Push to branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
----
-
-
----
-
-
 
 ## 🙏 Acknowledgments
 
@@ -317,6 +300,7 @@ Contributions are welcome! Please follow these steps:
 - **Keras Tuner**: Hyperparameter optimization
 
 ---
+
 
 
 
